@@ -7,3 +7,4 @@ We need to add the following XML element (with value true) to a `<PropertyGroup>
 ```
 <CopyDebugSymbolFilesFromPackages>true</CopyDebugSymbolFilesFromPackages>
 ```
+![No symbols have been loaded for this document](Issue.png)
